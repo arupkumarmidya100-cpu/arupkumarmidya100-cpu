@@ -1,18 +1,32 @@
-# 💫 About Me:
-I am a B.Tech Computer Science and Engineering student at Brainware University with a passion for Artificial Intelligence & Machine Learning, and software development. I have experience in Python, C, C++, Java, HTML, CSS, JavaScript, and MySQL, along with proficiency in Git, GitHub, and Visual Studio Code. I continuously enhance my skills in AI, machine learning, and problem-solving while seeking opportunities to gain practical experience, collaborate with others, and contribute to innovative projects.<br>
+<div align="center">
 
+<!-- ANIMATED HEADER / TITLE BANNER -->
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F72585&center=true&vcenter=true&width=700&lines=Hi+%F0%9F%90%8B%2C+I'm+Arup+Kumar+Midya;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer+%26+Problem+Solver" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19NqJmfSAW/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arup_midya_123?igsh=YWdkMzg0OTUzd2Ju) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arup-kumar-midya-270118423/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arupkumarmidya100@gmail.com) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI)%20%40%20Brainware%20University-7209B7?style=for-the-badge&logo=academic&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arupkumarmidya100-cpu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arupkumarmidya100-cpu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arupkumarmidya100-cpu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- COLORFUL TAG BADGES -->
+[![Developer](https://img.shields.io/badge/DEVELOPER-4CC9F0?style=for-the-badge&logo=codeforces&logoColor=black)](#)
+[![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-F72585?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![FULL-STACK](https://img.shields.io/badge/FULL--STACK-7209B7?style=for-the-badge&logo=react&logoColor=white)](#)
+[![OPEN SOURCE](https://img.shields.io/badge/OPEN%20SOURCE-4361EE?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=arupkumarmidya100-cpu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ SYSTEM DIAGNOSTICS (About Me)
+
+```bash
+User@ArupMidya:~$ init personal_data.sys
+[STATUS] Optimizing neural networks and full-stack applications...
+[INFO]   Pursuing B.Tech in CSE (AI) @ Brainware University.
+[INFO]   Specializing in AI/ML model deployment, algorithm design & scalable systems.
+[INFO]   Proficient across Python, C++, Java, Web Technologies & Database Architectures.
+[LOG]    Turning complex algorithms and datasets into elegant, coffee-fueled solutions! ☕✨
