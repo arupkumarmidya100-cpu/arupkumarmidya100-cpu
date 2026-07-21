@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B.Tech Computer Science and Engineering (AI) student at Brainware University with a passion for Artificial Intelligence, Machine Learning, and software development. I have experience in Python, C, C++, Java, HTML, CSS, JavaScript, and MySQL, along with proficiency in Git, GitHub, and Visual Studio Code. I continuously enhance my skills in AI, machine learning, and problem-solving while seeking opportunities to gain practical experience, collaborate with others, and contribute to innovative projects.<br>
+I am a B.Tech Computer Science and Engineering student at Brainware University with a passion for Artificial Intelligence & Machine Learning, and software development. I have experience in Python, C, C++, Java, HTML, CSS, JavaScript, and MySQL, along with proficiency in Git, GitHub, and Visual Studio Code. I continuously enhance my skills in AI, machine learning, and problem-solving while seeking opportunities to gain practical experience, collaborate with others, and contribute to innovative projects.<br>
 
 
 ## 🌐 Socials:
