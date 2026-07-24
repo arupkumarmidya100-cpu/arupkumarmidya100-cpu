@@ -1,12 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00DFEE&center=true&vCenter=true&width=800&height=120&lines=ARUP+KUMAR+MIDYA;AI+%26+ML+Engineer;AI+Prompt+Engineer" alt="Header Banner" />
-
-  <br/> 
-
-  <img src="https://img.shields.io/badge/STUDENT-B.TECH%20CSE--AI%20%26%20ML-FF0055?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/ENGINEER-AI%20%26%20PROMPT-00DFEE?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-FFB800?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Sourav%20De&fontSize=52&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" />
 </div>
+
+<!-- Vibrant Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20OOP-FF1493?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-Brainware%20Univ-00F5FF?style=for-the-badge&logo=graduation-cap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Role-Aspiring%20Software%20Engineer-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-7928CA?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<!-- Glowing Cyan Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C%20World!%20%F0%9F%8C%88%22)%3B;Mastering+Data+Structures+%26+Algorithms...;Building+Clean%2C+Scalable+%26+Modern+Systems...;Turning+Coffee+into+Quality+Code...;" alt="Typing Animation" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
