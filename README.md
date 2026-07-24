@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARUP%20KUMAR%20MIDYA&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20|%20Prompt%20Engineer&descSize=23&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARUP%20KUMAR%20MIDYA&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Prompt%20Engineer&descSize=23&descAlignY=55" width="100%" alt="Header" />
 
   <br/> 
 
@@ -11,14 +11,12 @@
 ---
 
 ## 🛰️ SYSTEM DIAGNOSTIC (About Me)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%">
-</p>
 
 <table border="0">
   <tr>
     <td width="30%" align="center">
-      <img src="./portrait.png" width="100%" alt="Portrait" />
+      <!-- Make sure portrait.png is uploaded to your main repository folder, or replace the src with a hosted image link -->
+      <img src="portrait.png" width="100%" alt="Portrait" />
     </td>
     <td width="70%">
       <pre>
@@ -39,7 +37,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupkumarmidya100-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupkumarmidya100-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
@@ -62,7 +60,7 @@
 
 ### 🛡️ OPERATING CAPABILITIES (TECH STACK)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,linux,git,github,vscode&theme=dark" alt="Skills" />
 </div>
 
 ---
@@ -72,10 +70,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=arupkumarmidya100-cpu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" />
+        <img src="https://github-readme-stats.vercel.app/api?username=arupkumarmidya100-cpu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="180em" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arupkumarmidya100-cpu&theme=tokyonight&hide_border=true&background=0D1117" height="180em" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arupkumarmidya100-cpu&theme=tokyonight&hide_border=true&background=0D1117" height="180em" alt="Streak" />
       </td>
     </tr>
   </table>
@@ -94,22 +92,22 @@
 
 ### 🧠 INTELLIGENCE & CONTRIBUTIONS
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arupkumarmidya100-cpu&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arupkumarmidya100-cpu&theme=tokyonight" width="100%" alt="Summary Cards" />
 </div>
 
 ---
 
 ### 🏆 TECHNICAL MILESTONES
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arupkumarmidya100-cpu&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arupkumarmidya100-cpu&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Quotes" />
   <br />
   <code>v1.0.0 | Last System Sync: 2026-07-25</code>
   <br />
-  <img src="https://visitcount.itsvg.in/api?id=arupkumarmidya100-cpu&label=ACCESS_LOG&color=7AA2F7&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=arupkumarmidya100-cpu&label=ACCESS_LOG&color=7AA2F7&icon=5&pretty=true" alt="Visitor Count" />
 </div>
