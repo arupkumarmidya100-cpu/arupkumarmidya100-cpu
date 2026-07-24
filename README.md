@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Sourav%20De&fontSize=52&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Arup%20Kumar%20Midya&fontSize=52&fontAlignY=35&desc=B.Tech%20CS%20Student%20%7C%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" />
 </div>
 
 <!-- Vibrant Status Badges -->
