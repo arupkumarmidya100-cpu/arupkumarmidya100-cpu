@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://svg-banners.my.id/api?type=waving&text=ARUP%20KUMAR%20MIDYA&width=800&height=200&color=0D1117&fontFamily=Fira%20Code&fontSize=48&subText=AI%20%26%20ML%20Engineer%20|%20Prompt%20Engineer&subTextFontSize=18" width="100%" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00DFEE&center=true&vCenter=true&width=800&height=120&lines=ARUP+KUMAR+MIDYA;AI+%26+ML+Engineer;AI+Prompt+Engineer" alt="Header Banner" />
 
   <br/> 
 
