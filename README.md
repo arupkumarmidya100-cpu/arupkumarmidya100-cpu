@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARUP%20KUMAR%20MIDYA&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Prompt%20Engineer&descSize=23&descAlignY=55" width="100%" alt="Header" />
+  <img src="https://svg-banners.my.id/api?type=waving&text=ARUP%20KUMAR%20MIDYA&width=800&height=200&color=0D1117&fontFamily=Fira%20Code&fontSize=48&subText=AI%20%26%20ML%20Engineer%20|%20Prompt%20Engineer&subTextFontSize=18" width="100%" alt="Header" />
 
   <br/> 
 
